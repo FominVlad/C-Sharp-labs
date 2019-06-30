@@ -12,6 +12,7 @@ namespace Lab4CSharp
         {
             try
             {
+                Console.WriteLine("Лабораторная работа №4.");
                 Menu.Start();
             }
             catch (Exception ex)
